@@ -1,0 +1,14 @@
+[
+  {
+    "model": "Fusca",
+    "manufactor": "VW"
+  },
+  {
+    "model": "Celta",
+    "manufactor": "GM"
+  },
+  {
+    "model": "City",
+    "manufactor": "Honda"
+  }
+]
